@@ -1,12 +1,19 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=098994c5_002Dfa2a_002D45df_002Dbf61_002D56b74e234c76/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=098994c5_002Dfa2a_002D45df_002Dbf61_002D56b74e234c76/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C5835CF2-9E1E-4632-8664-56CB5B9A2F94::.NETFramework,Version=v4.7.2::CheckPasswordUnitTest.Tests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C5835CF2-9E1E-4632-8664-56CB5B9A2F94::.NETFramework,Version=v4.7.2::CheckPasswordUnitTest.SecurityTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C5835CF2-9E1E-4632-8664-56CB5B9A2F94::.NETFramework,Version=v4.7.2::CheckPasswordUnitTest.CheckPasswordTest.Test2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9195f191_002Ddb9c_002D4960_002D8d2a_002Dca3d0f035e80/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C5835CF2-9E1E-4632-8664-56CB5B9A2F94::.NETFramework,Version=v4.7.2::CheckPasswordUnitTest.Tests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e4878d96_002D41ea_002D4d16_002Dab44_002D9180d0663f9f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckPasswordTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C5835CF2-9E1E-4632-8664-56CB5B9A2F94::.NETFramework,Version=v4.7.2::CheckPasswordUnitTest.CheckPasswordTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C5835CF2-9E1E-4632-8664-56CB5B9A2F94::.NETFramework,Version=v4.7.2::CheckPasswordUnitTest.SecurityTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
